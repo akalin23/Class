@@ -1,0 +1,555 @@
+﻿CustomerID,First,Last,StreetAddress,City,State,ZipCode,Email,PhoneNumber,FirstPurchaseDate,SubscribedToEmailList,Gender
+101811,Kenneth,Walton,6715 Commonwealth Dr,Sacramento,CA,94256,walton.k76@fastmail.com,(916) 918-1561,30-May-13,FALSE,M
+103508,Madeleine,Jones,3603 Leola Way,Sacramento,CA,94258,j_madeleine@gmail.com,(916) 186-9423,06-Feb-13,FALSE,F
+104939,Damen,Wheeler,6740 Branwood Way,Orangevale,CA,95662,dwheeler@outlook.com,(916) 164-1156,11-Apr-13,FALSE,M
+105549,Kevin,Gilbert,3198 Livingston Way,Folsom,CA,95671,kgilbert@fastmail.com,(916) 304-9859,28-Feb-13,TRUE,M
+105771,John,Young,663 Westward Way,Sacramento,CA,95899,john.y90@mail.com,(916) 730-6109,05-Sep-13,TRUE,M
+108708,Tommy,Kono,3179 Camelia River Way,Isleton,CA,95641,tkono@outlook.com,(916) 119-3967,01-Jul-12,FALSE,M
+109251,Anna,Himes,5507 Chimango Way,Sacramento,CA,94207,h_anna@fastmail.com,(916) 198-9609,26-Oct-12,TRUE,F
+110363,Marjorie,Love,3462 Mellowoods Way,Sacramento,CA,94299,lmarjorie54@icloud.com,(916) 736-1033,22-Aug-13,TRUE,F
+111486,Nina,Schreiner,1182 Dornajo Way,Sacramento,CA,94239,schreiner_n@mail.com,(916) 216-1413,01-May-13,FALSE,F
+111991,Marc,Newfield,6887 Conklin Ct,Sacramento,CA,95832,mnewfield@icloud.com,(916) 418-2002,06-Jan-13,TRUE,M
+112690,Tom,Hanks,9375 Ahart Way,Ryde,CA,95680,hanks_t5@mail.com,(916) 165-9126,02-Sep-12,FALSE,M
+116690,Christian,Wellisch,8725 Capistrano Way,Sacramento,CA,94208,wellisch.c@mail.com,(916) 811-7804,27-Feb-13,FALSE,M
+116934,Audrey,Tapp,2816 West Pkwy,Sacramento,CA,94267,t_audrey94@outlook.com,(916) 711-5520,06-Dec-12,TRUE,F
+119406,Dallas,Braden,9638 Chambord Ct,Sacramento,CA,94204,dallas_b89@aol.com,(916) 632-6107,20-Jun-13,FALSE,M
+121639,D.J.,Countess,608 Alder Creek Dr,Sacramento,CA,94263,c_d.j.31@yahoo.com,(916) 705-6650,11-Dec-12,TRUE,M
+122818,Beatrice,Abramson,716 Durness Way,Sacramento,CA,94257,beatrice.a@yahoo.com,(916) 324-4893,14-Sep-12,FALSE,F
+127472,George,Stanich,4486 Gloriann Way,Ryde,CA,95680,sgeorge@fastmail.com,(916) 161-3581,14-Dec-12,TRUE,M
+128131,Tim,Ocel,6962 Gardenside Ct,Sacramento,CA,95830,tim_o33@icloud.com,(916) 775-1818,12-May-13,FALSE,M
+132454,Dawn,Childress,4237 Rock House Cir N,Sacramento,CA,95825,dawnc@mail.com,(916) 622-7783,15-Aug-12,FALSE,F
+134457,Alice,Novak,1573 Layton Dr,Sacramento,CA,94273,n.alice@outlook.com,(916) 725-1543,13-Jan-13,FALSE,F
+137696,Sherry,Metz,9054 Ladefonos Ct,Ryde,CA,95680,metzs@zoho.com,(916) 405-4103,05-Sep-12,TRUE,F
+143878,Sylvia,Finley,4892 Waterash Way,Sacramento,CA,95821,sylviaf61@icloud.com,(916) 847-9725,27-Aug-13,FALSE,F
+145929,Joyce,Meadows,3426 Cliff Breeze Pl,Sacramento,CA,95860,joycem26@gmail.com,(916) 607-8534,20-Apr-13,FALSE,F
+147216,Cassandra,Whyte,7635 Amelia Earhart Ave,Sacramento,CA,95838,c.whyte71@hotmail.com,(916) 454-6170,29-May-13,FALSE,F
+147218,Madeleine,Savoie,884 J St,Sacramento,CA,94229,m.savoie@aol.com,(916) 360-9980,14-Sep-13,TRUE,F
+147543,Bud,Stewart,211 Maple Glen Rd,Sacramento,CA,94273,bstewart@aol.com,(916) 306-2673,26-Jul-12,TRUE,M
+149240,Frenchy,Bordagaray,7125 Fig St,Sacramento,CA,94237,frenchy.b@outlook.com,(916) 767-7375,01-Dec-12,FALSE,M
+154427,Mark,McLemore,1215 Rodeo Dr,Sacramento,CA,95860,mmark@aol.com,(916) 427-5321,18-Jan-13,TRUE,M
+157388,David,Cooke,9830 Bradshaw Rd,Sacramento,CA,94288,david_c78@aol.com,(916) 884-9338,24-Nov-12,FALSE,M
+157695,Catherine,Doane,7530 Silent Wings Way,Sacramento,CA,94207,catherine_d44@mail.com,(916) 234-4342,08-Mar-13,TRUE,F
+158310,Doris,Garrett,2178 Yellowhammer Ct,Carmichael,CA,95608,garrett.d@hotmail.com,(916) 637-6027,14-Sep-12,FALSE,F
+158528,Lauren,McFall,7229 Calle Verde Ct,Sacramento,CA,95813,mcfall_l@fastmail.com,(916) 631-0207,31-May-13,TRUE,F
+160392,Randall,Bal,136 Marble Crest Ct,Courtland,CA,95615,randall_b@mail.com,(916) 745-1867,23-Jul-12,FALSE,M
+161175,Adam,Jennings,1063 Wintermist Ct,Sacramento,CA,95813,jennings_a@hotmail.com,(916) 920-8314,01-Aug-13,FALSE,M
+161942,Harvey,Nitz,8146 Meghan Way,Sacramento,CA,94254,harvey.n@mail.com,(916) 847-7490,15-Aug-12,FALSE,M
+162236,Naomi,Donald,3661 Symphony Ct,Sacramento,CA,94206,dnaomi1@fastmail.com,(916) 873-6274,02-Jan-13,TRUE,F
+166135,Adam,Jahn,138 Petaluma Ct,Folsom,CA,95763,adam.j@gmail.com,(916) 414-1121,09-Jul-12,FALSE,M
+166612,Eric,Hansen,809 Rancho Roble Way,Sacramento,CA,94284,ehansen@icloud.com,(916) 926-3079,04-Jul-12,FALSE,M
+166735,Susan,Howard,9290 Winoco Ct,Sacramento,CA,94279,showard45@mail.com,(916) 994-3095,10-Jan-13,FALSE,F
+168607,Angela,Metzger,4482 Stillwater Way,Sacramento,CA,94239,angela.m@icloud.com,(916) 718-6376,23-Mar-13,FALSE,F
+170500,Violet,Ramey,2398 Brand Way,Sacramento,CA,95853,rameyv72@outlook.com,(916) 185-1028,01-Nov-12,FALSE,F
+173125,Timothy,Busfield,7453 Halo Ave,Sacramento,CA,95866,b_timothy@hotmail.com,(916) 944-4071,27-Jul-13,FALSE,M
+173380,Charles,Mann,3691 Fox Hollow Ln,Citrus Heights,CA,95611,charlesm7@gmail.com,(916) 808-5313,24-May-13,FALSE,M
+175871,Larry,Linville,4792 Butterfield Way,Sacramento,CA,95899,llarry@mail.com,(916) 602-0788,05-Nov-12,TRUE,M
+175940,Derek,Miles,4409 Brook Bay Way,Walnut Grove,CA,95690,mderek@icloud.com,(916) 920-3277,19-Jul-12,FALSE,M
+178806,Mary,Whipple,8552 Meadowglen Ave,Sacramento,CA,94205,mary.w@icloud.com,(916) 334-1354,18-Mar-13,FALSE,F
+182040,Matt,Walbeck,910 Garner Ct,Sacramento,CA,94232,mwalbeck@yahoo.com,(916) 626-7780,19-Apr-13,FALSE,M
+183797,Maxine,Hamer,383 Colonsay Way,Rancho Cordova,CA,95741,maxineh6@mail.com,(916) 760-1573,11-Nov-12,FALSE,F
+185863,Constance,Gonzalez,1684 Country Haven Ct,Elk Grove,CA,95624,c.gonzalez@aol.com,(916) 530-7548,11-Jun-13,TRUE,F
+186353,Edith,Hutton,5581 Merton Way,Sacramento,CA,95815,edith.h@mail.com,(916) 231-7479,25-Apr-13,FALSE,F
+189441,Jim,Loscutoff,1526 Holiday Cove Ct,Sacramento,CA,94252,l_jim@outlook.com,(916) 758-2944,28-Apr-13,TRUE,M
+189953,Brenda,Song,7324 Moddison Ave,Carmichael,CA,95608,sbrenda@gmail.com,(916) 764-0472,11-Aug-12,FALSE,F
+190721,Priscilla,Oliver,1339 Loazell Ct,Sacramento,CA,95823,o.priscilla@aol.com,(916) 437-6201,22-Oct-12,FALSE,F
+191050,Charlene,Boss,9938 Longridge Way,Sacramento,CA,95864,boss.c@icloud.com,(916) 691-8473,12-Sep-13,FALSE,F
+191951,Megan,Musgrove,3465 Pepperwood Knoll Ln,Sacramento,CA,94285,megan_m@outlook.com,(916) 636-4293,06-May-13,FALSE,F
+192738,Steve,Sax,3117 Glacken Way,Sacramento,CA,94257,steve.s@aol.com,(916) 626-8021,20-May-13,FALSE,M
+193914,Toni,Storey,6919 Middle River Ct,Sacramento,CA,94262,t_storey37@gmail.com,(916) 273-0311,04-May-13,FALSE,F
+193968,Marjorie,Pettus,2049 Meadowbrook Rd,Sacramento,CA,94294,p_marjorie@yahoo.com,(916) 926-9258,13-Oct-12,FALSE,F
+194680,Sasha,Victorine,2258 Bowie Ct,Courtland,CA,95615,victorine.s@mail.com,(916) 126-2016,07-Apr-13,FALSE,M
+196068,Theresa,Mireles,1869 Bulwick Ct,Sacramento,CA,95816,m_theresa83@mail.com,(916) 930-1409,05-Jul-13,TRUE,F
+197102,Renee,Galyan,8918 Mossy Bank Dr,Sacramento,CA,94207,g_renee59@yahoo.com,(916) 574-6429,11-Jul-13,TRUE,F
+199895,Philip,Levine,6467 Ferragamo Way,Sacramento,CA,95835,lphilip24@yahoo.com,(916) 426-0676,07-Oct-12,FALSE,M
+200272,Jane,O'Neill,3709 Sunfaire Ln,Mather,CA,95655,ojane@hotmail.com,(916) 347-7544,07-Mar-13,TRUE,F
+202612,LeVar,Burton,9224 Belladonna Ct,Sacramento,CA,94271,b_levar@mail.com,(916) 123-3788,17-Jul-13,FALSE,M
+203787,Amanda,Kershaw,4297 Ewing Way,Sacramento,CA,95832,kamanda31@gmail.com,(916) 188-3840,03-Nov-12,FALSE,F
+204295,Opal,Barnette,8828 Ost Pl,Sacramento,CA,94245,opalb94@hotmail.com,(916) 646-3176,12-Feb-13,FALSE,F
+205190,Lincoln,Steffens,61 Explorer Dr,Folsom,CA,95763,l_steffens@mail.com,(916) 692-3299,27-Apr-13,FALSE,M
+205878,Ryan,Coogler,8369 Sadie Ct,Sacramento,CA,95820,ryan_c1@gmail.com,(916) 646-3438,14-Sep-13,TRUE,M
+205927,Anthony,Swofford,465 Jacinto Ave,North Highlands,CA,95660,aswofford@gmail.com,(916) 750-9615,27-Jul-13,FALSE,M
+206078,Marcos,Breton,4004 Fall River Way,Sacramento,CA,94244,b.marcos46@gmail.com,(916) 992-5021,17-Aug-12,FALSE,M
+207846,Urijah,Faber,7424 Long River Dr,Sacramento,CA,95837,urijahf@gmail.com,(916) 206-7224,03-Jul-12,TRUE,M
+214537,Sue,Gregory,5936 Cedar Rock Cir,Sacramento,CA,95836,gregory_s5@gmail.com,(916) 253-5310,21-Oct-12,FALSE,F
+216081,Jeff,Float,9135 Roemer Ln,Sacramento,CA,94277,f_jeff12@aol.com,(916) 610-6682,27-Apr-13,FALSE,M
+216475,Eleanor,Dillow,4027 Mountain View Ave,Sacramento,CA,95887,edillow@gmail.com,(916) 969-3760,16-Aug-13,TRUE,F
+218889,Doris,Morelli,736 Mahonia Cir,Isleton,CA,95641,m_doris@aol.com,(916) 847-9046,24-Jan-13,TRUE,F
+220206,Brent,Bourgeois,4967 Kimmie Ct,Sacramento,CA,94249,bourgeois_b23@icloud.com,(916) 551-1671,19-Feb-13,TRUE,M
+224094,Lynn,Newhart,1676 San Mateo Ct,Antelope,CA,95843,lynn.n@zoho.com,(916) 933-9057,10-Mar-13,TRUE,F
+225489,Annette,Woolard,342 Manmar Way,Walnut Grove,CA,95690,annettew25@outlook.com,(916) 544-3564,14-Jan-13,TRUE,F
+226209,Tim,McCord,5383 Tanzanite Way,Wilton,CA,95693,tim.m@gmail.com,(916) 163-1292,12-Mar-13,FALSE,M
+226909,Sandie,Reed,8291 Munson Way,Sacramento,CA,95814,s.reed@aol.com,(916) 616-1159,10-Sep-13,FALSE,F
+227372,Peg,Winchester,3546 Glen Springs Way,Elverta,CA,95626,w.peg@mail.com,(916) 692-8007,28-Oct-12,FALSE,F
+227456,Kathy,Kerr,6709 Ashford Hill Pl,Sacramento,CA,94294,k.kerr@hotmail.com,(916) 501-3274,27-Oct-12,TRUE,F
+229742,Annette,Nielsen,9472 Calistoga Way,Carmichael,CA,95609,annetten33@yahoo.com,(916) 474-2055,08-Jan-13,TRUE,F
+230467,Erik,Lobo,224 Tennis Ct,Sacramento,CA,95837,lobo.e@yahoo.com,(916) 729-8525,03-Aug-13,TRUE,M
+230602,May,Tapp,1672 Olympic Way,Sacramento,CA,95829,t_may@yahoo.com,(916) 404-1739,23-Nov-12,TRUE,F
+231615,Richard,Rodriguez,8026 Bowen Cir,Sacramento,CA,94205,richard.r@mail.com,(916) 353-4694,22-Aug-13,FALSE,M
+233813,J.P.,Howell,4946 Dylan Ave,Sacramento,CA,94204,j.p.h@icloud.com,(916) 893-1158,23-Jun-13,FALSE,M
+233956,James,Irvin,4934 Sage Thrasher Cir,Elverta,CA,95626,irvinj77@aol.com,(916) 569-3706,15-Jan-13,FALSE,M
+235720,Loreto,Garza,6290 Sandpointe Ct,Sacramento,CA,94287,loreto_g@mail.com,(916) 619-2434,16-Aug-13,FALSE,M
+236554,Rich,Manning,919 Idle Wild Way,Sacramento,CA,94208,manning_r@icloud.com,(916) 521-8440,19-Apr-13,FALSE,M
+238347,Candace,Askins,1014 Viking Dr,Sacramento,CA,94229,candace.a@mail.com,(916) 609-8271,24-Oct-12,TRUE,F
+240205,Anna,Mcconnell,4241 Elbert Way,Sacramento,CA,95812,anna.m@zoho.com,(916) 195-1397,05-Sep-12,TRUE,F
+241144,Verna,Alfred,5388 Delwood Way,Sacramento,CA,95821,v.alfred@mail.com,(916) 315-0845,03-Jul-13,FALSE,F
+242720,Randy,Lerch,690 E Elkhorn Blvd,North Highlands,CA,95660,l.randy@mail.com,(916) 548-1298,24-Mar-13,TRUE,M
+244282,Sabrina,Hansen,9 Dondra Way,Sacramento,CA,95899,hansens@mail.com,(916) 772-7635,16-Jan-13,FALSE,F
+245577,Kevin,Sharp,8650 Moffatt Way,Sacramento,CA,94248,kevin.s11@yahoo.com,(916) 486-2037,20-Jan-13,FALSE,M
+247216,Chloe,Sutton,3571 Weldon Way,Sacramento,CA,94285,schloe@outlook.com,(916) 819-9818,03-Dec-12,TRUE,F
+249188,Isaiah,Ross,6790 Los Coches Way,Orangevale,CA,95662,ross.i72@zoho.com,(916) 467-3491,16-Mar-13,TRUE,M
+249779,Scott,Pruett,5766 Parklite Cir,Antelope,CA,95843,scottp@gmail.com,(916) 240-9266,26-May-13,FALSE,M
+250266,Mildred,Shafer,2288 Piercy Way,Sacramento,CA,94291,smildred@icloud.com,(916) 992-8425,21-Feb-13,FALSE,F
+253106,Candace,Moriarty,2737 Vallecitos Way,Sacramento,CA,95829,c_moriarty39@icloud.com,(916) 756-5791,12-May-13,FALSE,F
+256181,William,Everson,1952 Husch Way,Sacramento,CA,95894,williame@icloud.com,(916) 341-5255,13-Sep-12,FALSE,M
+262579,Mattie,Ryan,7930 Staggs Way,Elk Grove,CA,95624,rmattie@fastmail.com,(916) 453-4559,28-May-13,TRUE,F
+262638,Brian,Henninger,9729 Koyama Ct,Sacramento,CA,95831,brianh@icloud.com,(916) 935-9159,27-Jul-13,TRUE,M
+265133,Denise,Steele,2232 Boswell Ct,Sacramento,CA,94244,denise_s43@yahoo.com,(916) 793-4607,27-Sep-12,TRUE,F
+265339,Jamie,Bottoms,8246 Singleton Ct,Sacramento,CA,94273,b_jamie@yahoo.com,(916) 665-4187,21-Apr-13,TRUE,F
+265707,Marko,Cavka,6677 Southland Way,Sacramento,CA,95820,c.marko@icloud.com,(916) 309-6667,20-Dec-12,TRUE,M
+266633,Etu,Molden,955 Munger Way,Sacramento,CA,94284,emolden2@aol.com,(916) 389-3432,31-Mar-13,FALSE,M
+267632,Randy,Veres,7939 Ruge Ct,Sacramento,CA,95834,veres_r@outlook.com,(916) 264-3332,06-Jun-13,TRUE,M
+269687,Scott,Smith,8867 Belle Fleur Way,Isleton,CA,95641,smiths@mail.com,(916) 150-2056,02-Jul-12,TRUE,M
+270853,Helen,Oliver,1281 Poinsettia Ct,Sacramento,CA,95853,oliver_h@hotmail.com,(916) 988-5646,20-Jul-13,FALSE,F
+271531,Mildred,Masters,9480 Irvin Way,Sacramento,CA,94294,m_masters@zoho.com,(916) 835-0525,03-May-13,TRUE,F
+274541,Joanna,Benson,422 Adkinson Ct,Sacramento,CA,95826,joanna.b53@mail.com,(916) 315-8858,31-Jul-12,TRUE,F
+275152,Anthony,Padilla,1968 Rosa Del Rio Way,Sacramento,CA,94249,a.padilla@fastmail.com,(916) 171-8841,12-Jan-13,TRUE,M
+276549,John,Bowker,3500 Carsington Way,Sacramento,CA,94279,b.john@outlook.com,(916) 216-5687,17-Dec-12,TRUE,M
+277310,Delores,Ramey,4055 Tenwoods Ct,Sacramento,CA,94263,ramey.d@yahoo.com,(916) 153-9551,02-Jan-13,FALSE,F
+277373,Mike,Flanagan,5486 Gustine Way,Elk Grove,CA,95757,mikef10@zoho.com,(916) 699-6637,24-Oct-12,TRUE,M
+278204,Ann,Spencer,338 Raymar Way,Sacramento,CA,95824,s_ann@aol.com,(916) 811-3094,29-Aug-12,TRUE,F
+278809,Darrin,Nelson,5964 Pintado Ct,Sacramento,CA,94252,ndarrin44@yahoo.com,(916) 745-5644,06-Nov-12,TRUE,M
+283158,Thelma,Armstead,9078 Shadowglen Rd,Sacramento,CA,94291,thelma.a63@outlook.com,(916) 532-0329,14-Mar-13,TRUE,F
+286196,Matt,Bouza,2228 Shepard Ave,Elverta,CA,95626,m.bouza11@yahoo.com,(916) 909-4497,31-Aug-12,FALSE,M
+289693,Scott,Galbraith,6725 Sher Ct,Sacramento,CA,94280,g.scott33@outlook.com,(916) 468-4474,30-Dec-12,TRUE,M
+292402,Onterrio,Smith,3849 Frizell Ave,Sacramento,CA,94286,smitho@outlook.com,(916) 437-4755,16-Aug-12,FALSE,M
+296208,Leticia,Delisle,2816 Hesket Way,Sacramento,CA,94261,delislel@mail.com,(916) 427-7357,17-Nov-12,TRUE,F
+296353,Greg,Vaughn,6109 River Grove Cir,Citrus Heights,CA,95611,greg_v98@gmail.com,(916) 935-5283,13-Aug-13,FALSE,M
+296886,Pam,Doane,2241 L St,Fair Oaks,CA,95628,doanep30@zoho.com,(916) 934-8098,09-Aug-13,FALSE,F
+297686,Constance,Weaver,134 La Gama Ct,Sacramento,CA,95842,constance.w@zoho.com,(916) 150-2998,13-Jun-13,FALSE,F
+298508,Emily,Jardine,6106 Tiogawoods Dr,Sacramento,CA,94278,jardine.e35@mail.com,(916) 708-0319,25-Jul-13,FALSE,F
+301793,Eric,Heiden,778 Acero Ct,Sacramento,CA,95887,heidene80@aol.com,(916) 768-7209,04-Mar-13,TRUE,M
+302774,Mike,Patterson,9198 Temwoods Way,Sacramento,CA,95817,m_patterson@mail.com,(916) 811-1219,04-May-13,FALSE,M
+304344,Mark,Allen,9791 Turnbridge Dr,Sacramento,CA,94248,mark_a@icloud.com,(916) 466-7221,18-Jan-13,TRUE,M
+305005,Spencer,Levin,3474 Breanna Ct,Sacramento,CA,95814,spencerl@zoho.com,(916) 207-5325,23-Mar-13,FALSE,M
+306475,Kris,Ryan,6768 Oaken Bucket Ct,Sacramento,CA,94258,ryan_k@icloud.com,(916) 419-0740,03-Jul-12,TRUE,F
+306853,Bob,Forsch,6497 Verna Way,Sacramento,CA,95816,forsch.b@icloud.com,(916) 641-7622,22-Jun-13,TRUE,M
+308505,Andy,Fox,484 Dickson St,Sacramento,CA,95814,afox@mail.com,(916) 228-4232,07-Mar-13,TRUE,M
+308662,Annette,Schmitt,8791 Flowerwood Way,Sacramento,CA,95830,s.annette@aol.com,(916) 681-4901,08-Dec-12,TRUE,F
+308688,Tammy,Reynolds,5229 Middlesax Way,Sacramento,CA,94246,rtammy94@hotmail.com,(916) 715-1712,19-Aug-13,TRUE,F
+310195,Lori,Breazeale,4672 Tungsten Way,Sacramento,CA,94230,b.lori95@mail.com,(916) 429-7344,06-Nov-12,FALSE,F
+315634,Karen,Kijewski,5473 Pasadena Ave,Elk Grove,CA,95757,karen.k@aol.com,(916) 953-6433,11-Jul-13,FALSE,F
+317461,Megan,Hsu,8265 Predial Way,Sacramento,CA,94239,hsu_m74@outlook.com,(916) 486-7788,31-Jan-13,FALSE,F
+317807,Joel,Jones,3463 Durney Ct,Sacramento,CA,94289,j.jones13@mail.com,(916) 261-0393,30-Jan-13,TRUE,M
+319387,Malachi,Davis,6230 Eversley Ct,Sacramento,CA,95818,davis.m@gmail.com,(916) 612-0054,06-Jan-13,FALSE,M
+323830,Darnell,Hillman,5530 Reef Ct,Sacramento,CA,94244,d.hillman65@gmail.com,(916) 192-3990,13-Jul-13,TRUE,M
+324435,Teddy,Bruschi,5355 Surf Way,Sacramento,CA,94209,b.teddy@aol.com,(916) 253-3841,22-Jul-12,FALSE,M
+325263,Kathleen,Boehmer,607 Arrowood Ct,Rancho Cordova,CA,95741,boehmer_k@zoho.com,(916) 367-5930,21-Nov-12,TRUE,F
+327750,Ethel,Atherton,9102 Peridot Ct,Sacramento,CA,94289,eatherton@icloud.com,(916) 850-0067,18-Sep-13,FALSE,F
+329994,Thomas,Kelly,3823 Schiro Ct,Sacramento,CA,95817,k.thomas@outlook.com,(916) 555-7140,22-Oct-12,FALSE,M
+330223,Mel,Hutchins,1046 Auburn Blvd,Sacramento,CA,94291,hutchins_m9@gmail.com,(916) 949-7374,09-Feb-13,TRUE,M
+330570,Tyson,Griffin,5874 Priscilla Ln,Sacramento,CA,94261,tyson.g@fastmail.com,(916) 565-8216,14-Aug-13,TRUE,M
+331115,Janet,Koons,5726 Jefferson Ave,North Highlands,CA,95660,j.koons@fastmail.com,(916) 490-7982,24-Jul-12,TRUE,F
+332324,Sheila,Hudson,4685 Flowerwood Way,Sacramento,CA,94288,sheilah@mail.com,(916) 195-5498,10-Dec-12,FALSE,F
+336644,Charlie,Zink,4011 Life Ave,Sacramento,CA,95867,charliez39@yahoo.com,(916) 361-7739,12-Sep-12,FALSE,M
+343021,Brad,Lidge,7335 Loma Oak Ct,Herald,CA,95638,lidgeb@aol.com,(209) 262-5722,14-Jan-13,TRUE,M
+344702,John,Gibson,2000 De Costa Ave,Rancho Cordova,CA,95742,gibsonj@mail.com,(916) 511-0651,03-Mar-13,TRUE,M
+345348,Ada,Belle,7669 Gardenwood Way,Sacramento,CA,95835,b_ada13@outlook.com,(916) 100-2494,07-Jun-13,FALSE,F
+345748,Vance,Worley,1297 Goethe Rd,Sacramento,CA,94209,w_vance@yahoo.com,(916) 987-3319,10-Aug-13,TRUE,M
+346006,Kristi,Kirk,8664 Beret Ln,North Highlands,CA,95660,kristi_k@aol.com,(916) 379-7184,21-Mar-13,FALSE,F
+347189,Blanche,Decker,9874 Accrington Way,Sacramento,CA,95838,decker_b@zoho.com,(916) 959-2997,22-Jul-12,FALSE,F
+347659,Isabel,Kerr,3904 Faldo Ct,Sacramento,CA,95820,k_isabel@icloud.com,(916) 938-7595,16-Jun-13,FALSE,F
+352644,Jimmy,Smith,9978 Glenleigh Ct,Sacramento,CA,94209,s.jimmy@yahoo.com,(916) 663-3995,10-May-13,TRUE,M
+353846,Roberta,Otten,7033 Calmo Way,Sacramento,CA,94237,otten.r@hotmail.com,(916) 480-2476,16-Dec-12,TRUE,F
+355107,Ephraim,Salaam,7309 Sea Glass Way,Sacramento,CA,94288,ephraims@mail.com,(916) 356-4090,06-May-13,TRUE,M
+357579,Cynthia,Robinson,9816 Gold Point Way,Carmichael,CA,95609,r_cynthia66@icloud.com,(916) 165-5826,26-Nov-12,TRUE,F
+358901,Michelle,Carpenter,6724 Gallop Ct,Sacramento,CA,94287,c_michelle@yahoo.com,(916) 194-6390,14-Jan-13,FALSE,F
+363931,Ryan,Dinwiddie,1818 Coberly Ct,Sacramento,CA,94204,r_dinwiddie@gmail.com,(916) 267-3556,08-Jul-12,TRUE,M
+366695,Audrey,Higginbotham,3540 Richfield Way,Carmichael,CA,95609,haudrey@icloud.com,(916) 400-0088,19-Feb-13,FALSE,F
+370366,Dion,James,6548 Maybrook Dr,Sacramento,CA,94236,james.d@outlook.com,(916) 298-3739,25-Feb-13,TRUE,M
+370870,Nicholas,Sparks,9201 Thermiac Gulf Way,Sacramento,CA,94248,n.sparks@aol.com,(916) 126-0724,15-Jul-12,TRUE,M
+371731,Veronica,Bouchart,6229 Blaze Ct,Sacramento,CA,94237,v.bouchart@mail.com,(916) 968-3890,09-Apr-13,TRUE,F
+373200,Rene,Syler,1551 Holford Way,Sacramento,CA,94268,rene.s@fastmail.com,(916) 566-2029,17-Sep-13,FALSE,F
+378374,Vic,Grimes,5318 Silver Sea Way,Mather,CA,95655,vicg@zoho.com,(916) 206-7464,31-Aug-12,FALSE,M
+380003,Amobi,Okugo,7399 Mariposa Ave,Sacramento,CA,95827,aokugo@aol.com,(916) 374-8348,21-Oct-12,FALSE,M
+383684,Derrick,Lewis,735 Fuchsia Ct,Sacramento,CA,95819,d.lewis@outlook.com,(916) 241-1004,14-Nov-12,FALSE,M
+384899,Charles,Schwab,4188 Clarity Ct,Sacramento,CA,95887,schwabc@aol.com,(916) 704-4985,14-Sep-13,FALSE,M
+385115,Pete,Ranzany,3661 Napa Ave,Citrus Heights,CA,95621,ranzanyp@zoho.com,(916) 705-2949,01-May-13,TRUE,M
+386336,Maxine,Perrin,9352 Oterol Ct,Sacramento,CA,94205,m.perrin72@outlook.com,(916) 131-5603,14-Jul-12,TRUE,F
+386950,Sheri,O'Brian,5649 Proper Ct,Sacramento,CA,94274,o'brians76@hotmail.com,(916) 899-7068,26-Jan-13,TRUE,F
+390130,Sab,Shimono,2316 Akins Ct,Sacramento,CA,95864,sshimono@hotmail.com,(916) 428-0825,01-Apr-13,TRUE,M
+393120,Lula,Hsu,9127 Deer Fern Ct,Rancho Cordova,CA,95741,lulah@outlook.com,(916) 618-8114,27-Jan-13,TRUE,F
+393893,Donald,Butler,7465 Bevil St,Fair Oaks,CA,95628,b_donald@mail.com,(916) 386-4729,08-Sep-13,TRUE,M
+395125,Rowland,Office,1070 Bandon Way,Sacramento,CA,95825,rowland_o25@gmail.com,(916) 623-2326,30-Aug-13,TRUE,M
+396166,Nina,Sanders,1750 Villajoy Way,Sacramento,CA,94258,s.nina@icloud.com,(916) 930-2829,27-Jun-13,TRUE,F
+403000,Teresa,Wilber,5557 Old Kent Ln,Sacramento,CA,94244,teresaw@outlook.com,(916) 253-2759,28-Jun-13,TRUE,F
+404678,Anna,Kirk,6693 Goldsboro Ct,Folsom,CA,95630,kirk_a@yahoo.com,(916) 658-3520,28-Nov-12,TRUE,F
+405322,Phil,Tayag,5939 De Rosa Ct,Sacramento,CA,94298,t.phil@zoho.com,(916) 857-7371,26-Aug-12,TRUE,M
+405671,Toni,Case,1130 Deer Lake Dr,Sacramento,CA,95812,tcase92@mail.com,(916) 460-4193,26-Apr-13,TRUE,F
+407605,Leland,Glass,2047 Historic Aly,Sacramento,CA,94248,lglass52@mail.com,(916) 511-8900,27-Apr-13,FALSE,M
+408341,Emily,Fender,4793 Fox Hollow Ln,Sacramento,CA,94291,e_fender5@gmail.com,(916) 320-0106,21-Aug-12,FALSE,F
+409910,Lester,Holt,8563 Bailey Way,Sacramento,CA,95851,lesterh@hotmail.com,(916) 786-8346,22-Nov-12,FALSE,M
+412235,Olivia,Fulks,4511 E Socap Walk,Sacramento,CA,94246,fulks.o81@fastmail.com,(916) 192-6985,02-Aug-13,TRUE,F
+412544,Jay,Hughes,5622 Mathews Way,Sacramento,CA,94280,hughes.j74@mail.com,(916) 826-4425,29-Jun-13,TRUE,M
+412876,Leila,Olson,6584 Roseville Rd,Sacramento,CA,95865,olson_l@hotmail.com,(916) 273-8647,20-Mar-13,TRUE,F
+412929,Ashley,Boyd,8949 Colgate Ct,Sacramento,CA,94273,boyd.a@icloud.com,(916) 112-2328,03-Apr-13,TRUE,F
+413292,Verna,Drayton,9115 Fawnridge Way,Sacramento,CA,95822,v.drayton@icloud.com,(916) 346-0567,21-Jul-12,FALSE,F
+413495,Jeremy,Powell,3118 Lakewood Rd,Sacramento,CA,94239,powellj@mail.com,(916) 463-3419,27-Jul-12,TRUE,M
+414509,Amanda,Blake,8755 Castro Way,Sacramento,CA,94269,b_amanda@aol.com,(916) 846-0091,25-Apr-13,TRUE,F
+415869,Joyce,Fulks,9600 Andrea Blvd,Sacramento,CA,94205,fjoyce@outlook.com,(916) 147-2585,08-Feb-13,FALSE,F
+416523,Lynne,Metz,9386 Down River Ct,Citrus Heights,CA,95610,l.metz@yahoo.com,(916) 136-4983,02-Oct-12,TRUE,F
+417823,Joyce,Krieg,8319 Delcliff Cir,Sacramento,CA,94211,kriegj39@yahoo.com,(916) 694-5241,25-Dec-12,TRUE,F
+418506,Dusty,Baker,4248 Mullein Ct,Rio Linda,CA,95673,bdusty@hotmail.com,(916) 368-8556,16-Feb-13,TRUE,M
+418521,Holly,Jacobsen,2319 Cannon St,Sacramento,CA,95812,h_jacobsen@outlook.com,(916) 248-7994,22-Apr-13,TRUE,F
+418635,Scott,Schwartz,9396 Danbrook Dr,Sacramento,CA,94287,sschwartz25@gmail.com,(916) 450-0638,17-Oct-12,FALSE,M
+420981,Tom,Johnson,5531 Delagua Way,Sacramento,CA,95842,tom.j51@fastmail.com,(916) 149-1396,26-Jun-13,TRUE,M
+421074,N.T.,McQueen,4900 Monument Dr,Sacramento,CA,94235,n.t._m@zoho.com,(916) 564-9705,29-Nov-12,FALSE,M
+422592,Pete,Dexter,5731 Princeton St,Sacramento,CA,95816,pete.d@fastmail.com,(916) 426-0047,13-Sep-12,FALSE,M
+422717,April,Kalvert,3722 Floxtree Ct,Sacramento,CA,95867,kalverta73@mail.com,(916) 917-9060,27-Oct-12,FALSE,F
+422951,Mandisa,Hundley,3653 Bakula Way,Sacramento,CA,95823,m_hundley@mail.com,(916) 167-8877,12-Nov-12,FALSE,F
+425051,Charlie,Peacock,5356 Gleneagle Way,Sacramento,CA,95831,charlie.p@mail.com,(916) 541-4431,05-Mar-13,FALSE,M
+426830,Malcom,Floyd,7936 Woody Ct,Carmichael,CA,95609,floyd_m@outlook.com,(916) 523-6899,02-Nov-12,TRUE,M
+426984,Seneca,Wallace,6296 Fowler Ave,Sacramento,CA,94298,w.seneca@zoho.com,(916) 272-0336,13-Feb-13,TRUE,M
+427391,Dale,Maharidge,6027 Derby Park Ct,McClellan,CA,95652,m.dale@outlook.com,(916) 967-2079,15-Jul-13,TRUE,M
+427826,Rufus,Reid,9681 Torino Way,Sacramento,CA,94208,r.reid4@zoho.com,(916) 828-7831,18-Feb-13,TRUE,M
+429748,Kevin,Goldthwaite,7412 Auntine Burney S,Sacramento,CA,95899,gkevin@gmail.com,(916) 910-0083,06-Nov-12,TRUE,M
+432113,Harold,Green,1426 Harvey Way,Sacramento,CA,95812,h.green@mail.com,(916) 112-4690,03-Aug-12,FALSE,M
+432268,Aaron,Garcia,1802 Ozro Ct,Sacramento,CA,94269,aaron.g@zoho.com,(916) 398-1311,22-Jan-13,FALSE,M
+433442,Pauline,Justis,269 Bradford Dr,Ryde,CA,95680,pauline.j@mail.com,(916) 638-4801,26-Jun-13,FALSE,F
+435907,Jennie,Yates,6305 Barnaby Ct,Elverta,CA,95626,jenniey64@yahoo.com,(916) 302-9549,18-Aug-12,TRUE,F
+437454,Doug,Henry,8046 William Bird Ave,Sacramento,CA,94235,dough@mail.com,(916) 495-5277,11-May-13,FALSE,M
+441628,Sheri,Asberry,5648 Alturas Way,Sacramento,CA,95852,a.sheri@mail.com,(916) 652-4062,26-Dec-12,TRUE,F
+442254,Ann,Lane,3371 PO River Way,Sacramento,CA,94258,a.lane@zoho.com,(916) 903-7266,29-Aug-13,TRUE,F
+442691,Rosemary,Shafer,7404 Ruger Ct,Sacramento,CA,94279,srosemary@icloud.com,(916) 787-3011,15-Sep-13,FALSE,F
+447368,Gerald,Willhite,317 Sorenson Way,Sacramento,CA,95838,gerald_w@mail.com,(916) 147-7970,01-Sep-12,TRUE,M
+447601,Anthony,Kennedy,2023 Tiogawoods Dr,Rancho Murieta,CA,95683,a_kennedy17@mail.com,(916) 947-9551,24-Aug-12,TRUE,M
+448739,Jim,Breech,3937 Glynis Falls Ct,Sacramento,CA,94247,jbreech@icloud.com,(916) 565-2024,01-Feb-13,TRUE,M
+448993,Rachel,Jim,3791 Court Pkwy,Sacramento,CA,94252,rachelj@hotmail.com,(916) 332-9620,29-Jun-13,TRUE,F
+452874,Craig,Chaquico,7191 Shoal Ct,Sacramento,CA,94262,c_chaquico31@icloud.com,(916) 766-5960,09-Jul-13,TRUE,M
+454015,Tony,Lopez,2501 Orrington Cir,Sacramento,CA,95831,l_tony@mail.com,(916) 566-4661,22-Oct-12,TRUE,M
+454143,Joey,Hand,4235 Blues Aly,Antelope,CA,95843,j_hand@icloud.com,(916) 820-8532,15-Jul-13,TRUE,M
+456457,Edith,Alcorn,8075 Huckleberry Ln,Sacramento,CA,94295,alcorn.e@outlook.com,(916) 905-6054,22-Oct-12,FALSE,F
+458448,Robin,Casiano,9977 Twin Trails Dr,Sacramento,CA,94211,casiano.r@outlook.com,(916) 757-2307,23-Jul-13,FALSE,F
+459243,Marcus,McCauley,7210 Payton St,Rio Linda,CA,95673,mccauley_m@yahoo.com,(916) 839-9724,14-Feb-13,FALSE,M
+464277,Mike,Thomas,1864 Serenata Ct,Sacramento,CA,94252,m.thomas89@gmail.com,(916) 416-8769,14-Jul-13,FALSE,M
+464782,Mary,Youngblood,2319 Sunnyfield Way,Sacramento,CA,95852,youngblood.m@mail.com,(916) 930-3776,10-Apr-13,FALSE,F
+464984,Kevin,Johnson,2423 Spring Azure Way,Sacramento,CA,95833,kevin.j@yahoo.com,(916) 408-1339,31-Jul-12,FALSE,M
+465275,Jill,Hollenbeck,5720 Ada Ln,Sacramento,CA,95838,jill_h3@gmail.com,(916) 158-3380,22-Aug-12,FALSE,F
+468100,Buck,Martinez,3346 Essen Way,Elk Grove,CA,95624,b.martinez@aol.com,(916) 573-3582,30-Sep-12,TRUE,M
+468692,Betsy,Sodaro,4962 Becerra Way,Sacramento,CA,94277,sodaro_b@yahoo.com,(916) 487-0833,15-Jun-13,TRUE,F
+469564,Elsie,Slone,1970 Salt Ct,Rio Linda,CA,95673,e_slone@gmail.com,(916) 453-9270,01-Jul-13,TRUE,F
+470304,Adrienne,Barbeau,8259 Park Ranch Way,Sacramento,CA,94298,adrienne_b@aol.com,(916) 230-5762,19-Jul-12,TRUE,F
+471187,Rodney,Hannah,9889 Austell Way,Herald,CA,95638,hrodney@icloud.com,(209) 301-1434,12-May-13,FALSE,M
+475216,Dustin,Pedroia,8397 Callecita St,Elk Grove,CA,95759,p_dustin@icloud.com,(916) 245-8676,18-May-13,TRUE,M
+478274,Dick,Jurgens,8475 Anchor Bend Pl,Sacramento,CA,95832,d_jurgens@fastmail.com,(916) 446-1961,04-May-13,TRUE,M
+479497,Donna,Ramage,4243 San Felice Cir,Mather,CA,95655,donna_r27@icloud.com,(916) 204-7628,19-Nov-12,TRUE,F
+480298,Greg,Knapp,5226 Hatteras Way,Sacramento,CA,95836,k.greg@zoho.com,(916) 824-0392,26-Aug-12,TRUE,M
+482274,Jayne,Collins,4349 Westholme Way,Sacramento,CA,94280,jayne_c@mail.com,(916) 857-1003,26-Jul-12,FALSE,F
+484909,Raphael,Saadiq,4593 Havenwood Cir,Sacramento,CA,94293,r.saadiq@outlook.com,(916) 677-6106,04-Jun-13,FALSE,M
+485769,Merrin,Dungey,7988 Sam Ave,Sacramento,CA,95822,m_dungey@mail.com,(916) 402-1034,04-Aug-13,FALSE,M
+487346,Herb,Caen,9371 Laura Ct,Sacramento,CA,94249,caen_h40@fastmail.com,(916) 230-5705,10-Jun-13,FALSE,M
+488295,Johnny,Colla,7550 Homeland Ct,Sacramento,CA,94287,colla_j@hotmail.com,(916) 346-3985,20-Dec-12,FALSE,M
+488803,Brittney,Pardue,8459 Kit Ln,Sacramento,CA,94271,pbrittney@outlook.com,(916) 738-8334,20-Sep-12,TRUE,F
+491380,Eric,Lynch,99 Rushden Dr,Rancho Murieta,CA,95683,lynche@aol.com,(916) 192-3665,16-Nov-12,FALSE,M
+493552,Adrian,Ross,3850 Jo Ann Dr,Orangevale,CA,95662,adrian_r@yahoo.com,(916) 150-3390,13-Apr-13,FALSE,M
+494106,Margie,Kowalewski,8880 Trouville Ln,Sacramento,CA,95825,margiek@gmail.com,(916) 941-9509,26-Aug-13,TRUE,F
+498153,Jennifer,O'Brian,2814 Deer Cross Way,Sacramento,CA,94245,jennifer_o@aol.com,(916) 321-8193,10-Aug-12,FALSE,F
+498970,Katie,Calkins,6705 Sandpointe Ct,Sacramento,CA,94259,calkinsk@yahoo.com,(916) 657-9280,16-Jan-13,TRUE,F
+500350,Cheryl,Burgess,7675 Jefferson St,Elk Grove,CA,95758,burgess.c@gmail.com,(916) 269-4240,02-Jun-13,TRUE,F
+500733,Don,Verlin,7102 Windward Way,Sacramento,CA,94247,verlind80@icloud.com,(916) 230-6170,29-Nov-12,FALSE,M
+500828,Rae,Carruth,6322 Carle Ln,Sacramento,CA,94258,c.rae86@gmail.com,(916) 319-1919,30-Oct-12,TRUE,M
+507743,May,O'Donnell,5158 Hopkins St,Sacramento,CA,94282,m.o'donnell@fastmail.com,(916) 685-2892,19-Mar-13,FALSE,F
+513968,Giselle,Fernández,2817 Mossbeach Ct,Sacramento,CA,95826,gfernández53@hotmail.com,(916) 103-8770,27-Nov-12,TRUE,F
+515753,Jeff,Watson,2793 York Glen Way,Sacramento,CA,94279,jwatson51@fastmail.com,(916) 961-3375,06-Apr-13,FALSE,M
+515790,Cornel,West,6210 Maple Crest St,Sacramento,CA,94267,west.c@mail.com,(916) 228-0630,15-Jan-13,TRUE,M
+516619,Nick,Johnson,5112 Turret Ct,Sacramento,CA,94280,nickj@zoho.com,(916) 674-7673,30-May-13,FALSE,M
+517477,Sherri,Pickett,2143 Harding Ave,Sacramento,CA,94263,sherri.p24@aol.com,(916) 399-9064,07-Mar-13,TRUE,F
+520078,Don,Doll,2043 Maruyama Ct,Rancho Cordova,CA,95741,dolld@mail.com,(916) 308-6852,19-Mar-13,TRUE,M
+520196,Cindy,Stilwell,7155 Grovehill Way,Sacramento,CA,95823,c_stilwell@outlook.com,(916) 633-3093,23-Apr-13,FALSE,F
+520377,Donte,Stallworth,1811 Rio Barco Way,McClellan,CA,95652,donte_s@yahoo.com,(916) 238-0492,13-Jun-13,FALSE,M
+524667,Summer,Sanders,9744 Martinson Ct,Sacramento,CA,94239,ssanders34@hotmail.com,(916) 101-7730,01-Jul-13,FALSE,F
+528475,Pam,Verdin,5839 Funston Dr,Sacramento,CA,94274,v_pam@outlook.com,(916) 510-0087,22-Nov-12,FALSE,F
+534481,Joyce,Judd,2247 Risley Ct,Sacramento,CA,95836,judd.j11@outlook.com,(916) 540-0219,20-Jan-13,FALSE,F
+537796,Michael,Hedges,860 Watson St,Rancho Murieta,CA,95683,michaelh@hotmail.com,(916) 865-8379,22-Oct-12,FALSE,M
+537860,Brandi,Angulo,4811 Ute River Ct,Carmichael,CA,95609,a_brandi@hotmail.com,(916) 427-1148,21-Oct-12,TRUE,F
+547890,Joe,Carnahan,5017 Sawyer Cir,Rancho Cordova,CA,95741,joe_c@zoho.com,(916) 317-6443,17-May-13,FALSE,M
+548546,Mike,Burton,5838 Chantry Ct,Herald,CA,95638,m.burton@mail.com,(209) 497-3239,24-May-13,FALSE,M
+548800,Katherine,Kayes,8961 Prudhoe Ct,Sacramento,CA,95811,katherine.k18@zoho.com,(916) 383-5139,09-Mar-13,TRUE,F
+549823,Delano,Thomas,3754 Bold Ln,Rancho Cordova,CA,95670,thomas.d@aol.com,(916) 839-7227,22-Aug-13,TRUE,M
+550661,Katie,Spears,8166 Los Gatos Cir,Sacramento,CA,95815,katie_s@aol.com,(916) 179-5393,11-Apr-13,TRUE,F
+550824,Ken,O'Brien,137 Greenview Ln,Sacramento,CA,95823,o'brienk@hotmail.com,(916) 727-6155,29-Jul-13,TRUE,M
+551950,Rick,Cunningham,7594 Nimitz St,Orangevale,CA,95662,c.rick@zoho.com,(916) 907-8094,21-Aug-12,TRUE,M
+552124,Rose,Melberg,7891 Red River Ct,Sacramento,CA,94230,rose_m@yahoo.com,(916) 510-2609,14-Feb-13,TRUE,F
+553931,Bob,Jones,4162 Wegat Ln,Sacramento,CA,95816,jones.b@mail.com,(916) 545-5261,28-Jul-12,TRUE,M
+554099,Ruth,Wilhelm,6734 Cortez Ln,Sacramento,CA,95865,wilhelm_r@yahoo.com,(916) 193-3954,06-Sep-13,TRUE,F
+556152,Mary,Love,8866 Kincaid Way,Sacramento,CA,95833,l.mary@zoho.com,(916) 545-8736,28-Sep-12,TRUE,F
+556619,Laura,Michalski,2230 Vichy Cir,Sacramento,CA,94206,l.michalski@gmail.com,(916) 893-7997,21-Sep-12,TRUE,F
+558749,Haley,Anderson,7803 La Casa Way,Sacramento,CA,95832,a_haley@zoho.com,(916) 729-4309,30-Mar-13,TRUE,F
+559054,Bill,Cartwright,1523 Warrington Ct,Sacramento,CA,94203,cartwright_b@zoho.com,(916) 764-1007,27-Oct-12,TRUE,M
+559190,Eric,Thomas,7885 W Vista Way,Sacramento,CA,94278,e_thomas27@icloud.com,(916) 304-8521,03-Aug-13,FALSE,M
+559486,Emily,Eyre,2165 Blackridge Ave,Sacramento,CA,94259,emilye@icloud.com,(916) 382-5492,11-Sep-12,TRUE,F
+559688,Maria,Pace,1309 Clothier Way,Sacramento,CA,95836,mariap@aol.com,(916) 748-1662,01-Jun-13,TRUE,F
+561305,Morton,Downey,6272 Mesa Grande Ct,Sacramento,CA,94248,morton_d@mail.com,(916) 741-9814,15-Mar-13,TRUE,M
+563468,Mildred,Deluca,8844 Northview Dr,Folsom,CA,95630,deluca_m@icloud.com,(916) 159-2675,03-Jul-12,TRUE,F
+563500,Sally,Otten,5550 Dresher Park Way,Sacramento,CA,95842,s_otten@gmail.com,(916) 323-8422,20-Oct-12,FALSE,F
+565259,Don,Imus,5747 Desi Way,Sacramento,CA,95899,d_imus@hotmail.com,(916) 227-9089,18-Jun-13,FALSE,M
+566192,Eileen,Payton,5037 Tierra Green Way,North Highlands,CA,95660,p_eileen@mail.com,(916) 306-5319,21-Dec-12,TRUE,F
+567388,Lynn,Anderson,33 Lupine Field Ct,Sacramento,CA,95827,alynn78@zoho.com,(916) 688-2912,18-Sep-12,FALSE,F
+567719,Ramona,Keegan,760 Winfield Way,Sacramento,CA,94246,r.keegan80@mail.com,(916) 829-5606,30-Jul-13,TRUE,F
+568217,Bessie,Major,6465 Tarragon Ct,Sacramento,CA,94254,b_major42@mail.com,(916) 978-4947,18-Aug-13,TRUE,F
+575041,Larry,Bowa,8342 Minden Ct,Sacramento,CA,94240,bowa.l@icloud.com,(916) 219-4634,18-Jul-13,TRUE,M
+575903,Carlos,Alazraqui,1679 Windsong Ct,Sacramento,CA,94244,alazraquic@icloud.com,(916) 541-0130,24-Feb-13,FALSE,M
+578275,Jennifer,Rosenheim,9162 Hilldale Rd,Sacramento,CA,94262,j.rosenheim@outlook.com,(916) 829-6492,17-Dec-12,TRUE,F
+580674,Kort,Schubert,9119 Smoketree Dr,Sacramento,CA,94297,skort@zoho.com,(916) 783-0129,14-Jul-13,TRUE,M
+580783,Christine,Hamilton,5617 Scrub Oak Way,Sacramento,CA,94286,christine.h@fastmail.com,(916) 882-5291,06-Feb-13,FALSE,F
+585972,Juan,Lazcano,4293 Timbercreek Way,Orangevale,CA,95662,jlazcano@mail.com,(916) 805-7891,25-Mar-13,FALSE,M
+586201,Sylvia,Russell,3016 Alden Way,Fair Oaks,CA,95628,srussell@yahoo.com,(916) 232-2685,20-Jul-13,TRUE,F
+590517,Constance,Jeter,2194 Greenhead Ct,Sacramento,CA,94245,j_constance@icloud.com,(916) 795-1275,04-May-13,TRUE,F
+590616,Jim,Eakins,7257 Capitol Mall,Sacramento,CA,95853,eakins_j@mail.com,(916) 426-9268,15-Oct-12,TRUE,M
+592528,Geoff,Jenkins,4024 Merton Way,Sacramento,CA,94234,j.geoff@aol.com,(916) 758-1992,01-Jun-13,TRUE,M
+592592,Laura,Brooks,6107 Socorro Way,Sacramento,CA,95831,b.laura@zoho.com,(916) 473-8657,25-Jun-13,TRUE,F
+592726,Janet,Saville,4779 Mountain View Ave,Sacramento,CA,94235,janet_s@icloud.com,(916) 618-3768,24-Oct-12,TRUE,F
+593317,Betty,Carvajal,9229 Portinao Cir,Sacramento,CA,94268,b_carvajal95@icloud.com,(916) 913-8104,27-Jul-13,FALSE,F
+599995,Miguel,Ponce,657 Mafic Ct,Sacramento,CA,95813,mponce80@yahoo.com,(916) 948-7350,17-Jun-13,FALSE,M
+601753,Dominic,Sandoval,4838 Loma Linda Ct,Sacramento,CA,94284,s.dominic@outlook.com,(916) 740-5700,27-Nov-12,FALSE,M
+605188,Glenda,Tedford,2566 Tamworth Way,Fair Oaks,CA,95628,t.glenda@fastmail.com,(916) 789-4640,27-Apr-13,TRUE,F
+606155,Bertha,Slone,6313 Stonefield Ct,Sacramento,CA,94295,b.slone@zoho.com,(916) 623-1617,16-Jun-13,FALSE,F
+607810,Delores,Lang,4194 Vowell St,Sacramento,CA,94239,lang.d95@mail.com,(916) 268-4463,11-Sep-13,TRUE,F
+608290,Joan,Lunden,4245 Drawbridge Ct,Sacramento,CA,94287,l_joan67@yahoo.com,(916) 606-6818,01-Apr-13,TRUE,F
+610766,Dick,Ruthven,6783 Los Padres Way,Sacramento,CA,94205,r_dick@aol.com,(916) 535-3358,03-Jul-12,TRUE,M
+611078,Marcus,Arroyo,7078 Crooked Stick Dr,Sacramento,CA,95867,marcus_a@icloud.com,(916) 425-0218,04-Jun-13,TRUE,M
+611848,Henry,Hathaway,2448 Johanson Cir,Sacramento,CA,94293,hathaway.h@gmail.com,(916) 589-8515,30-May-13,FALSE,M
+612681,Colin,Hanks,4957 Alderwood Way,Antelope,CA,95843,colin_h@zoho.com,(916) 450-4918,10-Jun-13,TRUE,M
+616028,Janet,Corcoran,9774 W Harvard Ave,Folsom,CA,95630,corcoranj@mail.com,(916) 695-5603,07-Aug-12,FALSE,F
+616258,Jessica,Alcorn,1187 Outer Banks Pl,Sacramento,CA,95820,alcorn_j@fastmail.com,(916) 718-7660,03-Feb-13,TRUE,F
+616392,Jarrett,Bush,5748 Scotty Way,Sacramento,CA,95812,jbush@fastmail.com,(916) 112-5635,11-Jul-13,TRUE,M
+618955,Nick,Watney,3799 Kahara Ct,Sacramento,CA,94236,n_watney32@gmail.com,(916) 570-1567,14-Jul-13,TRUE,M
+619910,Daniel,Fells,4887 Doreen Way,Sacramento,CA,95840,d.fells@zoho.com,(916) 284-9060,10-May-13,TRUE,M
+622131,Lonie,Paxton,3468 Elvas Fwy,Rancho Cordova,CA,95742,l.paxton@aol.com,(916) 751-0019,29-Jun-13,FALSE,M
+622506,Cassandra,Davis,150 Stacy Ave,Sacramento,CA,94290,c.davis@icloud.com,(916) 546-7263,12-Jul-13,TRUE,F
+624668,Ann,Bannon,4399 Irma Way,Citrus Heights,CA,95611,annb88@icloud.com,(916) 378-1352,08-Oct-12,FALSE,F
+627324,Bob,Elliott,792 Green Glen Way,Sacramento,CA,94254,e_bob@outlook.com,(916) 217-2551,13-Apr-13,FALSE,M
+628132,Susan,Kalvert,4314 Jackdaw Ct,Folsom,CA,95630,s.kalvert@hotmail.com,(916) 892-7624,17-Mar-13,TRUE,F
+632495,Opal,Hillyer,8545 Inlet Ct,Sacramento,CA,95818,hillyero@mail.com,(916) 431-3598,28-Sep-12,FALSE,F
+643214,Erik,Coleman,3257 Loma Mar Ct,Sacramento,CA,94298,c_erik@icloud.com,(916) 819-1014,13-Jan-13,FALSE,M
+643305,Taylor,Graham,7662 Blachly Way,Sacramento,CA,94277,g.taylor75@aol.com,(916) 119-0688,11-Jul-12,FALSE,M
+646700,Myra,Work,5698 Lirios Ave,Sacramento,CA,94205,myra_w@fastmail.com,(916) 476-6180,07-Jun-13,TRUE,F
+646953,Amber,Demers,6484 Tywood Ct,Sacramento,CA,94299,amberd69@hotmail.com,(916) 639-1758,09-Mar-13,TRUE,F
+649551,Steve,Holm,9489 Lori Ct,Sacramento,CA,95840,hsteve@hotmail.com,(916) 826-9471,17-Nov-12,TRUE,M
+651462,Toby,Hall,7527 Stillwell Ct,Sacramento,CA,94229,htoby@mail.com,(916) 779-0784,20-Aug-13,TRUE,M
+656512,Joyce,Olson,2843 Savannah Ln,Sacramento,CA,95820,ojoyce@yahoo.com,(916) 139-0919,06-Sep-12,FALSE,F
+656728,Edith,Keenan,3026 N Edge Dr,Sacramento,CA,94284,edith.k@mail.com,(916) 115-4453,16-Jul-12,FALSE,F
+657495,Lauren,Ray,3530 Fletcher Farm Dr,Sacramento,CA,95819,l_ray28@mail.com,(916) 390-8677,01-Feb-13,FALSE,F
+657736,Mildred,Nester,596 Eileen Way,Sacramento,CA,95819,n.mildred@yahoo.com,(916) 482-0718,26-Sep-12,TRUE,F
+659695,Sydney,Crew,7835 Sergio Way,Elk Grove,CA,95759,sydney_c@icloud.com,(916) 365-8928,02-Sep-13,TRUE,F
+660634,Chris,Oldham,6285 Stretto Ct,North Highlands,CA,95660,oldhamc@icloud.com,(916) 823-0083,19-Mar-13,TRUE,M
+663029,Lynda,Ethridge,4440 Kinsella Ln,Citrus Heights,CA,95611,elynda76@mail.com,(916) 757-0053,02-Oct-12,TRUE,F
+664411,Anne,Boisvert,2657 Danbrook Dr,Sacramento,CA,94294,anneb@icloud.com,(916) 750-3769,22-Jul-13,TRUE,F
+664934,Scott,Boras,5033 Zoram Ct,Sacramento,CA,94203,scottb26@outlook.com,(916) 386-2950,28-Jul-13,FALSE,M
+665282,Constance,Wheat,3321 Southampton Way,Sacramento,CA,95828,cwheat41@mail.com,(916) 511-2041,04-Sep-12,TRUE,F
+665313,Michael,Stember,8295 Grand View Rd,Sacramento,CA,94269,m_stember@fastmail.com,(916) 779-4110,04-Jul-12,TRUE,M
+667170,Vladimir,Sabich,9377 Nimes Ln,Sacramento,CA,94204,s_vladimir50@mail.com,(916) 766-0235,19-Dec-12,TRUE,M
+668931,Myrtle,Jackman,8844 Barr Way,Sacramento,CA,94258,j_myrtle@outlook.com,(916) 777-8875,25-Dec-12,FALSE,F
+670707,Brandon,League,8813 Pavilions Place Ln,Sacramento,CA,94294,l.brandon@fastmail.com,(916) 180-3183,29-Aug-13,FALSE,M
+671101,Kathy,Rowell,7249 Wreyford Ct,Folsom,CA,95763,kathyr@gmail.com,(916) 434-7186,28-Jul-13,TRUE,F
+671363,Ricky,Reynolds,542 Odom Ct,Citrus Heights,CA,95621,ricky_r@icloud.com,(916) 588-5553,06-Dec-12,TRUE,M
+672834,Amber,Bounds,903 Whisper Ln,Ryde,CA,95680,b.amber@gmail.com,(916) 488-1072,22-Apr-13,FALSE,F
+676018,Rosemary,Ellinger,5221 Johns Dr,Sacramento,CA,94248,r_ellinger@icloud.com,(916) 564-5936,21-Jan-13,FALSE,F
+676155,Jack,Gallagher,4873 Juan Way,Carmichael,CA,95609,jackg17@icloud.com,(916) 521-4551,03-Mar-13,FALSE,M
+678940,Anne,Mullins,180 Seyferth Way,Sacramento,CA,94262,a_mullins@yahoo.com,(916) 878-2424,21-Aug-13,FALSE,F
+679354,Dan,Bunz,6481 Coker Ct,Sacramento,CA,95823,dbunz34@zoho.com,(916) 159-1842,19-Aug-13,TRUE,M
+680104,Louis,Stanfill,9077 Shada Way,Sacramento,CA,95824,s_louis19@mail.com,(916) 643-2727,11-Jun-13,TRUE,M
+689877,Jeannette,Fluker,7177 I St,Sacramento,CA,95841,fjeannette17@yahoo.com,(916) 779-6169,08-Oct-12,FALSE,F
+690100,Don,Rogers,5769 Silk Tree Way,Sacramento,CA,94286,don_r@yahoo.com,(916) 147-9580,10-Aug-12,TRUE,M
+693531,Virginia,Czyenski,1003 Heather Tree Dr,Elk Grove,CA,95759,vczyenski44@mail.com,(916) 946-1493,21-Oct-12,FALSE,F
+694281,Sarah,Colangelo,2231 Vichy Cir,Sacramento,CA,94250,s.colangelo@outlook.com,(916) 425-4981,22-Dec-12,FALSE,F
+695276,Pauline,Gonzalez,9696 Fernwood Way,Ryde,CA,95680,gonzalezp83@mail.com,(916) 742-3697,18-Jun-13,TRUE,F
+696852,Jamie,Nieto,6075 Dewey Blvd,Courtland,CA,95615,nieto_j@aol.com,(916) 412-8932,22-Aug-12,TRUE,M
+701211,Lillian,Chambers,2814 Southbury Ct,Sacramento,CA,94291,chambers.l@outlook.com,(916) 622-9840,19-Jul-13,FALSE,F
+701816,Jermaine,Dye,497 Durney Ct,Ryde,CA,95680,dyej@zoho.com,(916) 313-2324,12-Nov-12,TRUE,M
+702197,Ian,Hecox,1148 Cool Water Ct,Sacramento,CA,94254,h_ian@mail.com,(916) 929-1850,19-Jul-13,TRUE,M
+703083,Derrek,Lee,5253 Longboat Key Way,Sacramento,CA,95821,derrekl@aol.com,(916) 722-0407,17-Dec-12,TRUE,M
+706101,Carla,Boisvert,9275 Ashland Way,Sacramento,CA,94291,boisvert_c56@mail.com,(916) 278-8291,08-Apr-13,FALSE,F
+706884,Pat,Morita,1585 Benham Way,Sacramento,CA,94271,pat.m84@aol.com,(916) 591-6932,02-May-13,FALSE,M
+707458,Barbi,Benton,7315 Timberwood Ct,Sacramento,CA,95821,b.barbi@outlook.com,(916) 627-0315,15-Jul-12,TRUE,F
+710047,Jeanne,Bluhm,5427 Veralee Ln,Orangevale,CA,95662,bjeanne24@aol.com,(916) 777-4620,24-May-13,TRUE,F
+714277,Edith,Ryan,5987 Narwal Pl,Elk Grove,CA,95757,r_edith@gmail.com,(916) 183-5615,03-Jul-12,FALSE,F
+714947,Erika,Michel,3628 Kam Ct,Sacramento,CA,94236,michel_e@aol.com,(916) 938-6345,16-Aug-13,FALSE,F
+717234,Dale,Brown,8322 Esquire Dr,Sacramento,CA,94240,dale_b@gmail.com,(916) 874-2319,28-Aug-13,TRUE,M
+719921,Geoff,Jenkins,4319 Explorer Dr,Sacramento,CA,95819,j.geoff@mail.com,(916) 327-8833,10-May-13,TRUE,M
+720602,Lori,Tucker,8335 Deeble St,Sacramento,CA,94280,lori_t46@aol.com,(916) 489-5893,09-Oct-12,FALSE,F
+722547,Charles,Roberts,9788 Tyne Fell Ct,Sacramento,CA,95816,charlesr@gmail.com,(916) 116-9326,14-Jul-12,TRUE,M
+723057,Justin,Bannan,9790 Silverleaf Way,Folsom,CA,95630,j_bannan49@icloud.com,(916) 251-2296,29-Nov-12,FALSE,M
+723819,Casey,Weathers,552 Stewart Rd,Sacramento,CA,95894,c_weathers@fastmail.com,(916) 526-7080,08-Dec-12,FALSE,M
+724700,Steve,Cronin,6200 Waterash Way,Wilton,CA,95693,steve.c16@icloud.com,(916) 701-2617,25-Nov-12,TRUE,M
+724813,Bill,Munson,3591 Barbara St,Sacramento,CA,94235,b.munson@fastmail.com,(916) 340-6319,13-Aug-12,TRUE,M
+728908,Laura,Sampson,9457 Wesley Ave,Sacramento,CA,95827,l.sampson@zoho.com,(916) 612-1465,12-Sep-13,FALSE,F
+729740,Mark,Spitz,5856 Jade Ct,Sacramento,CA,94247,spitz.m@yahoo.com,(916) 168-8482,28-Aug-13,FALSE,M
+730305,Natalie,Zeller,9479 Macarlen Way,Rancho Murieta,CA,95683,nataliez@mail.com,(916) 274-2578,26-Jul-13,TRUE,F
+731346,Jeff,Blauser,3569 Inman Way,Sacramento,CA,94269,j_blauser85@hotmail.com,(916) 928-4527,18-Jul-13,FALSE,M
+734514,Deborah,Blum,7444 Cassatt Way,Sacramento,CA,95822,dblum21@mail.com,(916) 512-5092,02-Mar-13,FALSE,F
+734624,Brittany,Hatcher,5957 Gleneagle Way,Sacramento,CA,95823,brittany.h@zoho.com,(916) 678-8623,21-Nov-12,FALSE,F
+736500,Ken,Rose,2921 Pelican Way,Sacramento,CA,94296,rosek@gmail.com,(916) 981-0527,02-Jul-12,TRUE,M
+737707,Cecil,Wallace,2568 Boscastle Way,Sacramento,CA,94234,wallace.c@gmail.com,(916) 608-1910,24-Sep-12,TRUE,M
+738357,Margie,Pittman,5311 El Valle Way,Sacramento,CA,95899,m.pittman@hotmail.com,(916) 767-0941,17-Feb-13,FALSE,F
+739393,Lisa,Ling,6496 Fairgate Rd,Sacramento,CA,95832,l.lisa12@mail.com,(916) 220-8292,02-Sep-13,TRUE,F
+739440,Marjorie,Storey,1031 Shadow Creek Dr,Elk Grove,CA,95757,s_marjorie@yahoo.com,(916) 466-3813,25-Dec-12,TRUE,F
+739669,Max,Baer,8392 Southbreeze Dr,Sacramento,CA,94274,mbaer@outlook.com,(916) 387-6698,26-Sep-12,TRUE,M
+741398,Nora,Rhea,8373 Sitton Way,Sacramento,CA,95836,r_nora@zoho.com,(916) 490-1857,31-May-13,TRUE,F
+741514,Annie,Matthews,7382 Village Center Dr,Sacramento,CA,95817,anniem@aol.com,(916) 494-3312,13-Aug-12,FALSE,F
+742620,Joan,Didion,355 Spinnaker Way,Sacramento,CA,95865,jdidion49@aol.com,(916) 167-2444,12-May-13,TRUE,F
+743517,Margaret,Hodel,3016 Lido Isle Ln,Elk Grove,CA,95758,margaret_h@mail.com,(916) 609-9534,16-Jul-12,TRUE,F
+744416,Giovanni,Carmazzi,3132 Arnold Ct,Sacramento,CA,94203,carmazzig@icloud.com,(916) 770-6380,31-Jul-13,FALSE,M
+744648,Mark,Goodson,3034 Gaylord Ct,Sacramento,CA,94232,g_mark@gmail.com,(916) 851-6583,09-Jun-13,TRUE,M
+744780,Sammie,Stroughter,6943 Cobblefield Dr,Sacramento,CA,94284,stroughter.s@mail.com,(916) 225-5867,11-Sep-13,FALSE,M
+745543,Donna,Hume,375 Sheedy Ct,Sacramento,CA,95831,hume_d@mail.com,(916) 265-7170,26-Feb-13,FALSE,F
+746134,Patrick,Ianni,323 Malt Ct,Sacramento,CA,94236,ianni.p72@gmail.com,(916) 865-0877,29-Jan-13,FALSE,M
+747066,Lance,Briggs,2794 California Loop,Sacramento,CA,95834,lanceb@outlook.com,(916) 719-9413,05-Oct-12,TRUE,M
+748326,Eric,Stevens,6211 Sea Hawk Pl,Sacramento,CA,94273,stevense@mail.com,(916) 900-7122,20-Dec-12,TRUE,M
+755271,Rosalie,Mclaurin,8654 Seaborg Way,Sacramento,CA,94254,mclaurinr87@fastmail.com,(916) 899-7327,07-Sep-12,FALSE,F
+756769,Syd'Quan,Thompson,920 Foppiano Way,Sacramento,CA,95825,t_syd'quan@gmail.com,(916) 422-2770,14-Dec-12,TRUE,M
+756928,William,Vollmann,1227 McClatchy Way,Sacramento,CA,94246,william_v@aol.com,(916) 400-5995,11-Dec-12,TRUE,M
+757525,Brian,Posehn,7425 Aljo Way,Sacramento,CA,94262,brian.p@yahoo.com,(916) 982-5407,25-Feb-13,TRUE,M
+757780,Bertha,Kirby,8389 Attawa Ave,Sacramento,CA,95814,kbertha@mail.com,(916) 892-9348,05-Nov-12,TRUE,F
+759995,Mark,Twain,2319 Hillcrest Way,Rio Linda,CA,95673,m.twain@mail.com,(916) 834-7912,11-Dec-12,FALSE,M
+761615,James,Campen,8067 Nashua Way,Sacramento,CA,95865,j.campen@icloud.com,(916) 258-2710,13-Apr-13,TRUE,M
+762509,Jason,Sehorn,9072 Land Park Dr,Elk Grove,CA,95624,sehornj@mail.com,(916) 992-2365,21-Aug-13,TRUE,M
+765237,Chris,Bosio,9109 Piccadilly Cir,Sacramento,CA,94209,bosio.c@mail.com,(916) 595-7660,10-Jan-13,FALSE,M
+766161,Dora,Gray,2351 Winterhaven Ave,Ryde,CA,95680,dora.g@mail.com,(916) 142-5906,14-Apr-13,TRUE,F
+766737,Nathaniel,Hackett,4843 Kintyre Pen Pl,Elk Grove,CA,95757,hackett.n@aol.com,(916) 604-7326,07-May-13,TRUE,M
+767570,Otis,Griffin,6322 Mary Lou Way,Sacramento,CA,95842,o_griffin@gmail.com,(916) 996-4789,14-Jan-13,TRUE,M
+771285,Brian,Lewis,3514 Wolfboro Ct,Sacramento,CA,95820,brian.l@mail.com,(916) 482-0354,04-Aug-12,FALSE,M
+772690,David,Terrell,4799 Saints Way,Sacramento,CA,94274,t_david@hotmail.com,(916) 474-9350,30-Aug-13,TRUE,M
+775449,John,Cox,1232 Chambord Ct,Citrus Heights,CA,95611,john.c@gmail.com,(916) 631-3678,15-Mar-13,FALSE,M
+776775,Bob,Stubbs,5792 Pasadena Ave,Sacramento,CA,94206,bob_s@fastmail.com,(916) 488-4096,10-Dec-12,FALSE,M
+777145,Anne,Leibowitz,9316 Earlcort Cir,Rancho Cordova,CA,95670,a_leibowitz@outlook.com,(916) 475-7203,31-May-13,TRUE,F
+781523,Lillian,Kershaw,2815 Artesian Ct,Sacramento,CA,95852,klillian72@fastmail.com,(916) 551-8676,23-Mar-13,TRUE,F
+781968,Doug,Davis,2161 Baldwin Way,Sacramento,CA,95816,davisd@aol.com,(916) 658-9549,21-Sep-12,TRUE,M
+782947,Kris,Gonzalez,5791 Gandy Way,Sacramento,CA,95826,krisg@hotmail.com,(916) 787-6596,05-Mar-13,TRUE,F
+783369,Debra,Sellers,6981 Cloud Crest Way,Sacramento,CA,94254,sdebra@zoho.com,(916) 344-3576,24-May-13,FALSE,F
+784218,Keith,Lewis,6307 Paul Ave,Sacramento,CA,95833,k_lewis@fastmail.com,(916) 302-3328,14-Feb-13,FALSE,M
+785444,Myra,Sabo,6250 Wah Ave,Sacramento,CA,94245,myra.s@fastmail.com,(916) 435-5903,22-Feb-13,TRUE,F
+789065,Molly,Ringwald,5838 Enclave Pl,Folsom,CA,95671,mollyr@zoho.com,(916) 161-0476,25-Jan-13,TRUE,F
+789308,Sherry,Farrington,8138 Calderwood Ln,Antelope,CA,95843,sfarrington@fastmail.com,(916) 359-4397,18-Jul-12,TRUE,F
+789500,Gabe,Gardner,9591 Hood Franklin Rd,Sacramento,CA,94259,gabe.g97@gmail.com,(916) 648-6792,27-Jul-12,TRUE,M
+791559,Katherine,Sabo,4757 Klingon Ct,Sacramento,CA,94279,katherine.s25@hotmail.com,(916) 724-6368,05-Jan-13,FALSE,F
+791850,Priscilla,Wald,9315 Reichmuth Way,Sacramento,CA,94257,waldp@yahoo.com,(916) 826-2306,10-Oct-12,TRUE,F
+793987,Eason,Ramson,7998 Manitoba Ave,Sacramento,CA,94278,reason81@mail.com,(916) 208-9238,03-Mar-13,TRUE,M
+795957,Emily,Rath,1558 Wood Gate Way,Sacramento,CA,94237,remily@outlook.com,(916) 979-9161,12-Aug-12,FALSE,F
+796796,Scott,McCarron,4808 Wilshire Ave,Citrus Heights,CA,95621,mccarrons@gmail.com,(916) 177-4655,10-Feb-13,FALSE,M
+797968,Mike,Lincoln,5215 Mulberry Ln,Carmichael,CA,95609,m_lincoln@fastmail.com,(916) 699-7676,04-Aug-13,TRUE,M
+798336,Sally,Edwards,3818 Fell St,Sacramento,CA,95836,esally83@mail.com,(916) 484-7660,16-Jun-13,FALSE,F
+800121,Jamie,Anderson,3240 Villanova Cir,Sacramento,CA,95814,anderson.j@fastmail.com,(916) 535-0873,24-Jan-13,TRUE,F
+803700,Michael,Stewart,4527 Helsinki Way,Sacramento,CA,94239,michaels@hotmail.com,(916) 468-7739,30-Mar-13,FALSE,M
+806545,Rhonda,Kraus,2953 Morena Way,Sacramento,CA,95851,krausr@gmail.com,(916) 685-7610,03-Dec-12,TRUE,F
+808177,Faye,Champion,8713 Pennywood Ct,Sacramento,CA,94250,championf@mail.com,(916) 530-2719,06-Apr-13,FALSE,F
+808421,Kevin,Sutherland,3895 Magical Walk,Sacramento,CA,95834,kevin.s53@yahoo.com,(916) 845-4172,29-Nov-12,TRUE,M
+808869,Ryan,Anderson,114 Parkside Ct,Sacramento,CA,95899,a_ryan19@mail.com,(916) 184-8050,04-Feb-13,TRUE,M
+810369,Bob,Lunn,310 Linnet Ct,Sacramento,CA,94267,lunnb@fastmail.com,(916) 451-3320,03-Sep-12,FALSE,M
+813719,Diego,Corrales,3964 Torrance Ave,Sacramento,CA,94298,c_diego@aol.com,(916) 272-2449,24-Jun-13,TRUE,M
+814317,Alyssa,Anderson,8686 Scranton Cir,Sacramento,CA,94258,aalyssa20@fastmail.com,(916) 632-3104,17-Apr-13,TRUE,F
+814512,Max,Baer,4707 Holiday Cove Ct,Sacramento,CA,94208,b.max@zoho.com,(916) 492-7752,05-Sep-12,TRUE,M
+815980,Dan,Boitano,212 Rushden Dr,Sacramento,CA,94279,boitanod@mail.com,(916) 895-7304,20-Nov-12,FALSE,M
+817159,Geno,Petralli,3889 Majestic Ln,Isleton,CA,95641,genop@outlook.com,(916) 480-4774,07-Aug-12,FALSE,M
+817274,Viola,Kraus,9907 Dutton Way,Sacramento,CA,95823,violak99@mail.com,(916) 786-7681,24-Aug-13,TRUE,F
+817500,Genevieve,Matthews,391 New Sacto Way,Sacramento,CA,94237,g.matthews@icloud.com,(916) 603-5471,18-Jan-13,FALSE,F
+818287,Ramona,Mullins,1291 Chesterton Way,Carmichael,CA,95609,ramona.m@outlook.com,(916) 298-7042,27-May-13,TRUE,F
+822823,Debbie,Meyer,1972 Morrow St,Sacramento,CA,95852,meyerd3@mail.com,(916) 769-2914,26-May-13,TRUE,F
+825249,Robert,Awalt,5952 Jumilla Way,Sacramento,CA,94259,arobert@icloud.com,(916) 980-5331,31-Mar-13,FALSE,M
+826590,Belinda,Ellis,4452 Golden Poplar Ave,Sacramento,CA,94234,bellis@gmail.com,(916) 635-6679,21-Aug-13,TRUE,F
+832914,Michael,Roe,8040 Elster Ct,Sacramento,CA,94211,rmichael@outlook.com,(916) 556-8912,04-Sep-12,TRUE,M
+833180,Jessica,Chastain,8736 Arabis Ct,Sacramento,CA,94259,chastain_j@icloud.com,(916) 642-8202,14-Apr-13,FALSE,F
+837763,Alex,Honnold,2968 Syracuse Way,Sacramento,CA,95826,alex_h@zoho.com,(916) 438-4104,20-Aug-12,TRUE,M
+838924,Reggie,Rogers,9756 Prodperine Pl,Sacramento,CA,95816,rreggie@fastmail.com,(916) 279-6827,13-Aug-13,TRUE,M
+840096,Dek,Bake,8975 Silk Ct,Sacramento,CA,95825,dek_b@mail.com,(916) 989-3722,26-Feb-13,FALSE,M
+840970,Sam,Warburg,1680 Red Robin Ln,Sacramento,CA,94263,sam.w48@hotmail.com,(916) 114-4344,17-Feb-13,TRUE,M
+841141,Trevor,Matich,2305 Red Wolf Dr,Sacramento,CA,95819,trevorm@outlook.com,(916) 517-8756,31-Aug-12,FALSE,M
+841831,Joe,Inglett,8657 Normington Dr,Sacramento,CA,94282,inglett_j@hotmail.com,(916) 245-5714,20-Jan-13,FALSE,M
+842028,Jean,Zeller,6156 Sachi Way,Sacramento,CA,95838,zellerj@hotmail.com,(916) 935-8084,18-May-13,FALSE,F
+846558,David,de Berry,3420 Yale St,Sacramento,CA,94230,david_d5@yahoo.com,(916) 913-9683,24-Feb-13,TRUE,M
+846722,Bessie,Gold,1397 Lieto Way,Sacramento,CA,94257,gbessie@yahoo.com,(916) 653-6816,18-Sep-13,FALSE,F
+847289,Jennifer,Hopper,7225 Mill Branch Ct,Sacramento,CA,94283,jenniferh@yahoo.com,(916) 843-4707,06-Feb-13,TRUE,F
+850933,Spencer,Havner,2523 San Joaquin St,Sacramento,CA,94280,havner.s@gmail.com,(916) 437-5153,29-Mar-13,TRUE,M
+850952,Phil,Snow,4862 Mira Vista St,Sacramento,CA,94235,phils20@gmail.com,(916) 121-7521,16-Feb-13,FALSE,M
+852319,Stan,Hack,3339 Royal Down Cir,Sacramento,CA,94271,hstan@hotmail.com,(916) 557-0846,21-Feb-13,FALSE,M
+852925,Ellyse,Casteel,8881 Libra Ave,Sacramento,CA,94286,ellyse_c@yahoo.com,(916) 907-5683,02-Oct-12,FALSE,F
+857548,Stan,Atkinson,9421 W Lincoln Ave,Sacramento,CA,94298,s_atkinson@mail.com,(916) 630-4753,27-Aug-13,TRUE,M
+860057,Daimon,Shelton,9337 Dutton Way,Sacramento,CA,94291,daimon_s@gmail.com,(916) 989-2816,10-Jul-12,TRUE,M
+862302,Tammy,Hansen,8455 Tracy Ct,Sacramento,CA,95840,tammy_h@mail.com,(916) 518-7652,15-Jul-12,TRUE,F
+864896,Frank-Paul,Santangelo,2743 Mohamed Oaks Ct,Elk Grove,CA,95759,frank-pauls@hotmail.com,(916) 796-8873,03-Jul-12,TRUE,M
+866556,James,House,3028 Rio Cresta Way,Galt,CA,95632,house.j@zoho.com,(209) 572-2994,03-Feb-13,FALSE,M
+866847,Natalie,Gulbis,2984 Comanche Way,Fair Oaks,CA,95628,natalie_g@mail.com,(916) 580-4604,17-Feb-13,TRUE,F
+872851,Sheri,Mcabee,8694 Macfinley Way,Sacramento,CA,94298,m_sheri@mail.com,(916) 948-9907,03-Oct-12,FALSE,F
+877877,Kathy,Murphy,7967 Icarus Ct,McClellan,CA,95652,kathym@outlook.com,(916) 961-0425,24-Aug-13,TRUE,F
+879173,Mabel,Bales,4355 Volga Way,Wilton,CA,95693,bales.m34@hotmail.com,(916) 277-6407,02-Feb-13,TRUE,F
+880238,Lynn,Bell,5963 Shepard Ave,Sacramento,CA,94279,lynnb@mail.com,(916) 917-4314,02-Nov-12,TRUE,F
+882493,Myra,Bashaw,5600 Inspiration Ln,Sacramento,CA,94247,b_myra@fastmail.com,(916) 567-0300,29-May-13,FALSE,F
+884368,Cheryl,Walker,6739 Bimini Ct,Sacramento,CA,95841,cheryl.w@gmail.com,(916) 229-1876,04-Feb-13,FALSE,F
+884607,Skylar,Thomas,577 Don Merlino Ct,Sacramento,CA,94244,thomas.s@aol.com,(916) 535-4030,08-Sep-12,FALSE,F
+884729,Sam,Elliott,7532 Squirewood Ct,Sacramento,CA,95820,sam_e68@mail.com,(916) 429-6412,23-Feb-13,FALSE,F
+885548,Richard,Hellesen,6110 Vanier Ct,Sacramento,CA,94211,hellesen_r@fastmail.com,(916) 269-2760,01-Apr-13,TRUE,M
+888759,Ann,Bingaman,9411 Kirk Way,Sacramento,CA,94273,bingamana@outlook.com,(916) 330-3800,01-Jun-13,TRUE,F
+888952,Jerry,Royster,2329 Yuma Cir,Herald,CA,95638,r.jerry@aol.com,(209) 811-6793,08-Apr-13,TRUE,M
+889686,Suzi,Gardner,5592 Strawberry Ln,Sacramento,CA,94283,gardner_s43@hotmail.com,(916) 184-3401,21-Jun-13,FALSE,F
+890270,John,O'Sullivan,5131 Lamont Way,Sacramento,CA,95840,johno@zoho.com,(916) 149-9240,02-Sep-12,TRUE,M
+890497,Brie,Larson,161 David Way,Sacramento,CA,95818,brie_l@icloud.com,(916) 390-7315,06-May-13,FALSE,F
+890651,Sonia,Dunkin,7979 Arroyo Vista Dr,Folsom,CA,95671,sonia.d19@aol.com,(916) 143-0056,21-Apr-13,FALSE,F
+891738,Gary,Hoffman,856 William Way,Sacramento,CA,94295,hoffman_g@outlook.com,(916) 261-7047,31-May-13,TRUE,M
+892883,Leona,Weber,5188 Vorden Rd,Sacramento,CA,95838,weberl@icloud.com,(916) 930-7602,31-Mar-13,TRUE,F
+893039,Kathy,Decker,993 Lomax Ct,McClellan,CA,95652,kathy.d@icloud.com,(916) 689-3267,13-Sep-12,FALSE,F
+897614,John,Vukovich,9558 Agree Ct,Sacramento,CA,94247,johnv@mail.com,(916) 527-5653,29-Jun-13,TRUE,M
+897980,Josephine,Hoff,826 Chatfield Dr,Sacramento,CA,94259,hoff.j@zoho.com,(916) 577-7067,09-Apr-13,FALSE,F
+900440,Kayla,Isham,977 Glenmont Way,Citrus Heights,CA,95621,kisham@zoho.com,(916) 194-2920,03-Apr-13,FALSE,F
+901388,Victor,Wong,7122 El Viento Way,Sacramento,CA,94295,wong_v@hotmail.com,(916) 724-6932,27-Feb-13,FALSE,M
+905670,Joyce,Fernandez,1813 El Centro Rd,Sacramento,CA,95851,jfernandez@yahoo.com,(916) 307-5207,05-Dec-12,FALSE,F
+908328,Callie,Douglas,2928 Gramont Way,Sacramento,CA,94208,d_callie@gmail.com,(916) 695-5224,01-Mar-13,TRUE,F
+908768,Doris,Coley,7129 Caswell Ct,Sacramento,CA,94234,coley_d@hotmail.com,(916) 766-6981,24-Feb-13,TRUE,F
+911171,Dawn,Oxley,4382 Gazania Ct,Sacramento,CA,94232,oxley_d@hotmail.com,(916) 992-1299,01-May-13,TRUE,F
+912671,Maxine,Hamilton,8884 Samwood Ct,Rancho Cordova,CA,95670,mhamilton@gmail.com,(916) 327-0230,05-May-13,TRUE,F
+915766,Fernando,Viña,6189 Kathryn Way,Sacramento,CA,94249,f.viña53@mail.com,(916) 119-3117,08-Sep-13,TRUE,M
+917728,Maxine,Wylie,3796 Northfield Dr,Sacramento,CA,94208,wyliem@fastmail.com,(916) 108-1505,20-Mar-13,TRUE,F
+918682,Matt,Barnes,684 Naponee Ct,Elk Grove,CA,95758,barnesm@gmail.com,(916) 738-4763,15-Jun-13,TRUE,M
+921792,Candace,Storms,1328 Schutt Way,Sacramento,CA,94206,s_candace@fastmail.com,(916) 858-7222,19-Jan-13,FALSE,F
+921901,Fannie,Wooldridge,1806 Tetlow Ct,Sacramento,CA,94239,fanniew@fastmail.com,(916) 861-3996,28-Jun-13,FALSE,F
+924361,Ben,Campbell,1325 Dundalk Ct,Elk Grove,CA,95624,campbell_b46@gmail.com,(916) 293-2312,31-Aug-13,TRUE,M
+924649,Manny,Parra,5695 Chapeau Ct,Sacramento,CA,94279,m.parra@yahoo.com,(916) 158-2271,03-Aug-12,FALSE,M
+924947,Bob,Wilkins,8171 Boston Ct,Sacramento,CA,95811,wilkins.b@outlook.com,(916) 957-4051,19-Apr-13,FALSE,M
+925565,Raymond,Carver,7078 Reenel Way,Folsom,CA,95763,carver_r@aol.com,(916) 685-8458,18-Jan-13,FALSE,M
+926144,Jackie,Greene,7537 San Luis Ct,Sacramento,CA,95852,jackie_g@outlook.com,(916) 693-5191,03-Mar-13,TRUE,M
+926289,Cindy,Ramirez,3827 Durfee Way,Sacramento,CA,94206,c_ramirez83@mail.com,(916) 443-7206,03-Sep-12,TRUE,F
+927518,Clancy,Barone,6266 Dalhart Way,Sacramento,CA,94297,b_clancy@zoho.com,(916) 667-4363,03-Aug-13,FALSE,M
+929344,Jack,Parker,1204 Chamonix Way,Sacramento,CA,94254,parker_j@mail.com,(916) 774-1199,04-Dec-12,TRUE,M
+932618,Natasha,Lyon,7922 Rivershore Ct,Sacramento,CA,95842,lnatasha@icloud.com,(916) 133-2669,21-Feb-13,FALSE,F
+933331,Angela,Boehmer,9034 Pournelle Way,Sacramento,CA,95823,a_boehmer@fastmail.com,(916) 334-5154,22-May-13,TRUE,F
+936214,DeMarcus,Nelson,5355 Emerson Rd,Sacramento,CA,95894,n_demarcus@mail.com,(916) 402-6512,17-Sep-12,FALSE,M
+938006,Ellen,Ontiveros,1805 Gypsy Star Way,Sacramento,CA,95824,o.ellen@icloud.com,(916) 192-2636,27-Jan-13,TRUE,F
+938393,James,Donaldson,326 Beachcraft Way,Sacramento,CA,95867,james.d@mail.com,(916) 631-6353,05-Oct-12,TRUE,M
+938417,Jerry,Manuel,6887 Lorton Ct,Sacramento,CA,95831,jerry.m@icloud.com,(916) 501-2040,06-Sep-12,FALSE,M
+940912,Darren,Oliver,4401 Ladino Rd,Sacramento,CA,95853,darreno@zoho.com,(916) 527-1189,25-Feb-13,FALSE,M
+941876,Helen,Price,7193 Canna Ct,Sacramento,CA,94282,price_h@mail.com,(916) 820-2457,09-Aug-13,TRUE,F
+944523,Sabrina,Bastian,3646 Rio De Oro Way,Sacramento,CA,94232,sabrinab2@fastmail.com,(916) 538-2037,19-Jul-13,TRUE,F
+950299,Pearl,Green,5141 Academy Way,Sacramento,CA,95864,pgreen@icloud.com,(916) 933-8511,03-Oct-12,FALSE,F
+951701,Stacy,Smith,5498 Grant Ln,Elverta,CA,95626,ssmith@zoho.com,(916) 567-0186,07-Jul-12,TRUE,F
+951702,Shaka,Ford,7239 Cecile Way,Sacramento,CA,94249,shakaf@yahoo.com,(916) 465-6285,05-Feb-13,FALSE,F
+954812,Mildred,Rosenheim,876 Kylaglen Ct,Orangevale,CA,95662,mildred.r@icloud.com,(916) 495-3098,18-Jun-13,TRUE,F
+955591,Evelyn,Ashford,6574 El Dala Ln,Sacramento,CA,95822,e_ashford@zoho.com,(916) 771-8767,08-Jan-13,TRUE,F
+958321,Rush,Limbaugh,6923 Park River Oak Ct,Sacramento,CA,94288,l.rush@outlook.com,(916) 975-6062,21-Jan-13,FALSE,M
+961080,Anne,Ross,5522 Spinning Rod Ct,Sacramento,CA,94248,ross.a@yahoo.com,(916) 401-3721,09-Jul-12,FALSE,F
+964403,David,Garibaldi,2778 Foppiano Way,Sacramento,CA,94254,david.g@hotmail.com,(916) 330-2531,06-Feb-13,FALSE,M
+964619,Lee,Greenwood,1151 Yellowtail Way,Sacramento,CA,94269,lee.g@icloud.com,(916) 315-0098,07-Aug-13,TRUE,M
+970794,Reneau,Peurifoy,4565 Feather River Way,Sacramento,CA,94287,p_reneau62@zoho.com,(916) 267-9129,11-Jun-13,FALSE,M
+972329,Gregg,Coffin,2193 Woodville Ln,Citrus Heights,CA,95621,g.coffin@fastmail.com,(916) 719-7616,19-Aug-13,FALSE,M
+973766,Carla,Pfeifer,5601 Monte Casino Way,Sacramento,CA,95852,pfeiferc@zoho.com,(916) 295-9302,09-Feb-13,TRUE,F
+974503,Vicki,Abramson,4824 Mackinaw Way,Elk Grove,CA,95758,vicki_a@fastmail.com,(916) 645-8767,11-Apr-13,TRUE,F
+976778,Bobby,Clark,4355 Amwell Ct,Wilton,CA,95693,c.bobby38@mail.com,(916) 523-3458,18-Aug-13,TRUE,M
+977759,Natalie,Dorris,318 Pelligrini Ct,Sacramento,CA,95816,ndorris@gmail.com,(916) 505-7381,20-Aug-13,TRUE,F
+979679,Adrienne,Ibrahim,3708 Amazon Ave,Sacramento,CA,94294,iadrienne@zoho.com,(916) 649-9790,10-Mar-13,FALSE,F
+981529,Anne,Gray,7031 Sierra Blvd,Sacramento,CA,95830,agray@gmail.com,(916) 469-9766,23-Feb-13,FALSE,F
+992895,Royce,Clayton,8565 Den Ave,Sacramento,CA,95853,c.royce@zoho.com,(916) 638-2357,01-Jun-13,TRUE,M
+992956,Ken,Forsch,1495 Canadeo Way,Sacramento,CA,95830,forsch.k@yahoo.com,(916) 547-1153,27-Oct-12,FALSE,M
+994056,Ruby,Bastian,4967 Clairidge Oak Ct,Sacramento,CA,94289,ruby.b@fastmail.com,(916) 726-3245,01-Dec-12,TRUE,F
+994185,Theresa,Carpenter,8927 Rivercrest Dr,Sacramento,CA,95842,carpentert5@hotmail.com,(916) 479-9529,25-Jan-13,TRUE,F
+994199,Renee,Caceres,8720 Rivera Dr,Sacramento,CA,95815,c.renee@hotmail.com,(916) 617-0268,02-Oct-12,TRUE,F
+994269,Derwin,Williams,7945 Rose Petal Way,Sacramento,CA,94207,wderwin57@hotmail.com,(916) 541-5697,15-Sep-13,FALSE,M
+995599,Timothy,Schmit,2089 Zet Ct,Sacramento,CA,95887,schmitt32@mail.com,(916) 355-6283,21-Aug-12,TRUE,M
+996970,Alice,Colletti,3826 Doreen Way,Antelope,CA,95843,calice@hotmail.com,(916) 375-9890,21-Apr-13,TRUE,F
+999915,Ricky,Ray,7837 El Cerro Ct,Sacramento,CA,95865,ricky_r@mail.com,(916) 188-8462,20-Jul-13,FALSE,M
