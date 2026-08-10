@@ -93,6 +93,12 @@ function buildFilters(answers) {
       relaxable: true,
     },
     {
+      id: 'sizeClass',
+      active: () => answers.sizeClass.length > 0,
+      passes: (car) => answers.sizeClass.includes(car.sizeClass),
+      relaxable: true,
+    },
+    {
       id: 'seatsDoors',
       active: () => seatsDoorsOpt.minSeats > 0 || seatsDoorsOpt.minDoors > 0,
       passes: (car) => car.seats >= seatsDoorsOpt.minSeats && car.doors >= seatsDoorsOpt.minDoors,
@@ -160,11 +166,12 @@ function applyHardFiltersWithRelaxation(cars, answers, minResults = 3) {
   if (survivors.length >= minResults) return { survivors, relaxedNotes };
 
   // Step 3+: drop remaining relaxable filters one at a time, softest-ordered.
-  const relaxOrder = ['transmissionRequired', 'drivetrainRequired', 'fuelType', 'bodyStyle', 'excludeBrands'];
+  const relaxOrder = ['transmissionRequired', 'drivetrainRequired', 'fuelType', 'sizeClass', 'bodyStyle', 'excludeBrands'];
   const labels = {
     transmissionRequired: 'the "manual required" requirement (now just preferred)',
     drivetrainRequired: 'the required drivetrain (now just preferred)',
     fuelType: 'the powertrain/fuel-type filter',
+    sizeClass: 'the size-class filter',
     bodyStyle: 'the body-style filter',
     excludeBrands: 'the excluded brands/origins filter',
   };
@@ -210,20 +217,6 @@ function brandBoostScore(car, brands) {
   if (!wantsInclude) return null;
   const matches = brands.includeMakes.includes(car.make) || brands.includeOrigins.includes(car.brandOrigin);
   return matches ? 1 : 0.3;
-}
-
-function sizeScore(car, sizeClass) {
-  if (sizeClass === 'no-pref') return null;
-  if (car.sizeClass === sizeClass) return 1;
-  const adjacency = {
-    subcompact: ['compact'],
-    compact: ['subcompact', 'midsize'],
-    midsize: ['compact', 'fullsize', 'midsize-suv'],
-    fullsize: ['midsize', '3row-suv'],
-    'midsize-suv': ['midsize', '3row-suv'],
-    '3row-suv': ['midsize-suv', 'fullsize'],
-  };
-  return adjacency[sizeClass]?.includes(car.sizeClass) ? 0.4 : 0;
 }
 
 function drivetrainScore(car, drivetrainAnswer) {
@@ -288,9 +281,6 @@ export function scoreCars(allCars, answers, options = {}) {
       weight: 2 * (answers.cargoPracticality / 4),
     });
 
-    const size = sizeScore(car, answers.sizeClass);
-    if (size !== null) dims.push({ key: 'sizeClass', subscore: size, weight: 2 });
-
     const drivetrain = drivetrainScore(car, answers.drivetrain);
     if (drivetrain !== null) dims.push({ key: 'drivetrain', subscore: drivetrain, weight: 2 });
 
@@ -342,6 +332,9 @@ export function explainCar(car, answers) {
 
   if (answers.bodyStyle.length > 0 && answers.bodyStyle.includes(car.bodyStyle)) {
     reasons.push(`${car.bodyStyle[0].toUpperCase()}${car.bodyStyle.slice(1)} body style ✓`);
+  }
+  if (answers.sizeClass.length > 0 && answers.sizeClass.includes(car.sizeClass)) {
+    reasons.push(`${car.sizeClass} size class ✓`);
   }
   if (answers.mustHaveFeatures.length > 0) {
     const have = answers.mustHaveFeatures.filter((f) => car.features[f]);
