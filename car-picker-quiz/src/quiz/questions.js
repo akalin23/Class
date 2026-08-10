@@ -18,6 +18,12 @@ export const FEATURE_OPTIONS = [
   { value: 'memorySeats', label: 'Memory seats' },
   { value: 'paddleShifters', label: 'Paddle shifters' },
   { value: 'sunroof', label: 'Sunroof' },
+  { value: 'navigationSystem', label: 'Built-in navigation' },
+  { value: 'blindSpotMonitor', label: 'Blind-spot monitor' },
+  { value: 'laneKeepAssist', label: 'Lane-keep assist' },
+  { value: 'parkingSensors', label: 'Front/rear parking sensors' },
+  { value: 'wirelessPhoneCharging', label: 'Wireless phone charging' },
+  { value: 'heatedRearSeats', label: 'Heated rear seats' },
 ];
 
 export const BODY_STYLE_OPTIONS = [
@@ -114,13 +120,12 @@ export const questions = [
   {
     id: 'sizeClass',
     key: 'sizeClass',
-    title: 'What size class fits your life?',
-    subtitle: "This nudges your ranking — it won't eliminate close matches.",
-    type: 'singleSelect',
-    hardFilter: false,
-    weight: 2,
-    options: [{ value: 'no-pref', label: 'No preference' }, ...SIZE_CLASS_OPTIONS],
-    default: 'no-pref',
+    title: 'What size class(es) will you consider?',
+    subtitle: 'Pick as many as you want — e.g. Compact + Midsize excludes every SUV size class without touching body style. Leave unselected for no preference.',
+    type: 'multiSelect',
+    hardFilter: true,
+    options: SIZE_CLASS_OPTIONS,
+    default: [],
   },
   {
     id: 'seatsDoors',
